@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<script src="main.js"></script>
+<link rel="stylesheet" type="text/css" href="main.css">
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Contrail+One&display=swap" rel="stylesheet" />
+    <head>
+    <title>Square Root Calculator</title>
+    </head>
+<body>
+    <h1>Square Root Calculator</h1>
+    <form id="sqrtForm">
+        <label for="numberInput">Enter a number:</label>
+        <input type="number" id="numberInput" required>
+        <div class="buttons">
+        <button type="button" id='submit-butn' onclick="calculateSqrt()">Submit</button>
+        <button type="button" id='cancel-butn' onclick="cancel()">Cancel</button>
+        </div>
+    </form>
+    <p id="result"></p>
+</body>
+</html>

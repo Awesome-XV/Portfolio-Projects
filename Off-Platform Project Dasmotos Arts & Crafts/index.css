@@ -1,0 +1,33 @@
+h1 {
+    font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+background-image: url("C:/Users/sudhi/Documents/VS Code/Projects/Off-Platform Project Dasmotos Arts & Crafts/Resources/Pattern-Image1.jpeg");
+}
+.brush {
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+background-color: mediumspringgreen;
+}
+.cost {
+    font-family: Helvetica;
+    color: blue;
+    font-weight: bold;
+}
+.frames {
+    background-color: lightcoral;
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
+.paint {
+    background-color: skyblue;
+    font-family: Helvetica;
+font-size: 32px;
+font-weight: bold;
+color: white;
+}
